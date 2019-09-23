@@ -1,0 +1,4 @@
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\Dry.Log.Console.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\Dry.Log.Console.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\Dry.Log.Console.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\Dry.Log.Console.AssemblyInfo.cs

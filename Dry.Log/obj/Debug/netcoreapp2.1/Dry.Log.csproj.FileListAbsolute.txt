@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\bin\Debug\netcoreapp2.1\Dry.Log.deps.json
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\bin\Debug\netcoreapp2.1\Dry.Log.dll
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\obj\Debug\netcoreapp2.1\Dry.Log.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\obj\Debug\netcoreapp2.1\Dry.Log.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\obj\Debug\netcoreapp2.1\Dry.Log.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\bin\Debug\netcoreapp2.1\Dry.Log.pdb
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\obj\Debug\netcoreapp2.1\Dry.Log.dll
+C:\Users\lenovo\source\repos\Dry.Log\Dry.Log\obj\Debug\netcoreapp2.1\Dry.Log.pdb

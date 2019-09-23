@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\Dry.Log.dll
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\bin\Debug\netcoreapp2.1\Dry.Log.pdb
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\lenovo\source\repos\Dry.Log\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
